@@ -1,0 +1,257 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width:100%;
+  padding:0 15px;
+  margin:auto;
+}
+
+header {
+  height:65px;
+  width:100%;
+  background-color:rgba(34,49,52,0.9);
+  position:fixed;
+  z-index:10;
+}
+
+.header-ttl {
+  font-size:30px;
+  margin:10px 0;
+  color:white;
+  font-weight:bold;
+  opacity:0.9;
+  font-family:cursive;
+}
+
+.header-right li {
+  padding-right:20px;
+  padding-top:25px;
+  float:right;
+}
+
+.header-right a{
+  font-size:15px;
+  opacity:0.7;
+  font-weight:normal;
+  color:white;
+}
+
+.header-right li:hover {
+  cursor:pointer;
+  opacity:1;
+  border-bottom:2px solid white;
+  text-align: center;
+}
+
+.header-right{
+  padding-right:20px;
+}
+
+.header-left{
+  float:left;
+}
+
+.mv {
+  padding:150px 0 100px 0;
+  background-image: url("background-image.jpg");
+  background-size:cover;
+  border-bottom:2px solid #696969;
+}
+
+.mv h1{
+  font-size:40px;
+  color:black;
+  text-align:center;
+  font-family:arial;
+  opacity:0.8;
+  margin-bottom: 30px
+}
+
+.mv h2{
+  font-size:30px;
+  color:black;
+  text-align:center;
+  font-family: arial;
+  opacity:0.8;
+}
+
+.mv p{
+  font-size:20px;
+  font-weight:normal;
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top:20px;
+}
+
+#btnv {
+  background-color:rgba(34,49,52);
+  margin-top:70px;
+}
+
+#btnv h1{
+  color:white;
+  font-size:30px;
+  font-weight:bold;
+  margin:0 80px;
+  padding:30px 0;
+  text-align:left;
+}
+
+#btnv span {
+  font-family:cursive;
+}
+
+#btnv p{
+  color:white;
+  font-size:15px;
+  font-weight:normal;
+  font-family:arial;
+  margin:0 80px;
+  padding-bottom:20px;
+  line-height: 30px;
+  text-align:left;
+  text-indent: 1em;
+}
+
+#btnv span{
+  font-weight:bold;
+  color:white;
+}
+
+.cv {
+  height:500px;
+  margin-top:60px;
+  text-align:center;
+  background-color: white;
+}
+
+.lesson {
+  float:left;
+  width:25%;
+  padding-right:40px;
+  margin-top:20px;
+}
+
+#cv-ttl h1{
+  color:black;
+  font-size:30px;
+  font-family: cursive;
+  font-weight:bold;
+  margin-bottom: 60px
+}
+
+.btn {
+  background-color:#1e90ff;
+  width:25%;
+  border-radius:4px;
+  text-align:center;
+  margin:40px 0;
+}
+
+.btn :hover{
+  opacity:0.5;
+  font-weight:bold;
+  cursor:pointer;
+}
+
+.math {
+  color:white;
+  font-size:20px;
+  padding:30px 30px;
+}
+
+.physics {
+  color:white;
+  font-size:20px;
+  padding:30px 50px;
+}
+
+.chemistry {
+  color:white;
+  font-size:20px;
+  padding:30px 30px;
+}
+
+.english {
+  color:white;
+  font-size:20px;
+  padding:30px 50px;
+}
+
+.txt-contents {
+ padding-top:40px;
+ display:none;
+}
+
+.txt-contents p {
+  color:#696969;
+  font-size:15px;
+  font-weight:normal;
+  text-align:center;
+}
+
+.text-active{
+  display:block;
+}
+
+footer {
+  background-color:black;
+  height:160px;
+  padding:40px 20px;
+}
+
+.footer-logo {
+  font-family: cursive;
+  font-size:20px;
+  color:white;
+  font-weight:bold;
+  padding-left: 30px;
+  padding-right:50px;
+  padding-top:10px;
+}
+
+.footer-list {
+  font-size:15px;
+  color:white;
+  font-weight:normal;
+  padding:20px 20px;
+  border:2px solid white;
+}
+
+.footer-list li:hover{
+  cursor:pointer;
+  border-bottom:2px solid white;
+}
+
+.footer-left{
+  float:left
+}
+
+.footer-right{
+  float:left
+}
