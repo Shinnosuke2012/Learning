@@ -89,6 +89,7 @@ header {
     font-family:arial;
     border-bottom:1px solid gray;
     padding-bottom:10px;
+    text-align:left;
 }
 
 .mv-ttl h2{
@@ -97,6 +98,7 @@ header {
     font-weight:bold;
     font-family:arial;
     padding-top:10px;
+    text-align:left;
 }
 
 .mv-txt {
