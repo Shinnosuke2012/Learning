@@ -74,8 +74,9 @@ header {
 
 .mv {
     width:100%;
-    padding:50px 40px;
+    padding:50px 30px;
     text-align:left;
+    margin-left:40px;
 }
 
 .mv-ttl {
