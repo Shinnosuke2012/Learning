@@ -73,7 +73,7 @@ header {
 }
 
 .mv {
-    width:100%;
+    width:80%;
     padding:50px 30px;
     text-align:left;
 }
@@ -105,7 +105,6 @@ header {
 .mv-txt {
     text-align:left;
     padding:10px 10px 10px 10px;
-    margin-left:40px;
 }
 
 .mv-txt p{
