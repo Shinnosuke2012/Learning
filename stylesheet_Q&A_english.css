@@ -74,12 +74,12 @@ header {
 
 .mv {
     width:100%;
-    padding:80px 50px;
+    padding:50px 30px;
 }
 
 .mv-ttl {
     text-align:left;
-    margin:20px 40px;
+    margin:20px 30px;
 }
 
 .mv-ttl h1 {
@@ -103,7 +103,7 @@ header {
 
 .mv-txt {
     text-align:left;
-    padding:10px 10px 100px 40px;
+    padding:10px 10px 30px 30px;
 }
 
 .mv-txt p{
