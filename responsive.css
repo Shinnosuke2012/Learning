@@ -2,6 +2,7 @@
 @media all and (max-width:1000px) {
     .lesson {
         width:50%;
+        margin-bottom:30px;
     }
 
 
@@ -10,7 +11,8 @@
 /* For smart phone*/
 @media all and (max-width:670px) {
     .lesson {
-        width:100%;
+        width:50%;
+        margin-bottom:30px;
     }
 
     .mv h1{
