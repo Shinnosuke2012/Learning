@@ -13,6 +13,7 @@
     .lesson {
         width:25%;
         text-align:center;
+        padding:0 auto;
     }
 
     .mv h1{
