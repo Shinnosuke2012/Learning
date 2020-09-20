@@ -73,14 +73,13 @@ header {
 }
 
 .mv {
-    width:80%;
-    padding:50px 30px;
-    text-align:left;
+    width:100%;
+    padding:80px 50px;
 }
 
 .mv-ttl {
     text-align:left;
-    margin:20px 20px;
+    margin:20px 40px;
 }
 
 .mv-ttl h1 {
@@ -90,7 +89,6 @@ header {
     font-family:arial;
     border-bottom:1px solid gray;
     padding-bottom:10px;
-    text-align:left;
 }
 
 .mv-ttl h2{
@@ -99,12 +97,11 @@ header {
     font-weight:bold;
     font-family:arial;
     padding-top:10px;
-    text-align:left;
 }
 
 .mv-txt {
     text-align:left;
-    padding:10px 10px 10px 10px;
+    padding:10px 10px 100px 40px;
 }
 
 .mv-txt p{
@@ -122,7 +119,7 @@ header {
   padding-bottom:10px;
   font-weight:normal;
   font-family: Arial, Helvetica, sans-serif;
-  text-align:left;
+  text-align:left
 }
 
 .icon {
