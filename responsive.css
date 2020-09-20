@@ -16,36 +16,53 @@
     }
 
     .mv h1{
-        font-size:45px;
+        font-size:60px;
         text-align:left;
     }
 
     .mv h2{
-        font-size:35px;
+        font-size:50px;
         text-align:left;
     }
 
     .mv p {
-        font-size:25px;
+        font-size:40px;
         text-align:left;
     }
 
     .btnv h1{
-        font-size:35px;
+        font-size:50px;
         text-align:left;
     }
 
     .btnv p{
-        font-size:20px;
+        font-size:30px;
         text-align:left;
     }
-
-    .header-right {
-        display:none;
+    
+    .math {
+        font-size:40px;
+    }
+    
+    .physics {
+        font-size:40px;
+    }
+    
+    .chemistry {
+        font-size:40px;
+    }
+    
+    .english {
+        font-size:40px;
+    }
+        
+    .footer-logo {
+     font-family: cursive;
+     font-size:50px;
     }
 
-    .menu-icon {
-        display:block;
+    .footer-list {
+     font-size:40px;
     }
 
 }
