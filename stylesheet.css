@@ -168,7 +168,6 @@ header {
 
 .btn {
   background-color:#1e90ff;
-  width:25%;
   border-radius:4px;
   text-align:center;
   margin:40px 0;
@@ -184,28 +183,24 @@ header {
   color:white;
   font-size:20px;
   padding:30px 40px;
-  width:25%;
 }
 
 .physics {
   color:white;
   font-size:20px;
   padding:30px 40px;
-  width:25%;
 }
 
 .chemistry {
   color:white;
   font-size:20px;
   padding:30px 40px;
-  width:25%;
 }
 
 .english {
   color:white;
   font-size:20px;
   padding:30px 40px;
-  width:25%;
 }
 
 .txt-contents {
