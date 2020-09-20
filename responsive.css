@@ -1,12 +1,12 @@
 /* For tablet */
 @media all and (max-width:1000px) {
-    .btn {
+    .lesson {
         width:50%;
     }    
 }
 
 @media all and (max-width:670px) {
-    .btn {
+    .lesson {
         width:100%;
     }
 
