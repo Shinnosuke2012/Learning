@@ -150,15 +150,12 @@ header {
   background-color: white;
 }
 
-.lessons {
-  width:25%;
-  text-align:center;
-
 .lesson {
   float:left;
-  margin-top:20px;
-  margin-bottom:20px;
-  margin-right:10px;
+  width:25%;
+  margin-right:auto;
+  margin-top:40px;
+  margin-bottom: auto;
 }
 
 #cv-ttl h1{
@@ -166,7 +163,7 @@ header {
   font-size:30px;
   font-family: cursive;
   font-weight:bold;
-  margin-bottom: 60px;
+  margin-bottom: 60px
 }
 
 .btn {
@@ -185,25 +182,25 @@ header {
 .math {
   color:white;
   font-size:20px;
-  padding:30px 40px;
+  padding:30px 60px;
 }
 
 .physics {
   color:white;
   font-size:20px;
-  padding:30px 40px;
+  padding:30px 60px;
 }
 
 .chemistry {
   color:white;
   font-size:20px;
-  padding:30px 40px;
+  padding:30px 60px;
 }
 
 .english {
   color:white;
   font-size:20px;
-  padding:30px 40px;
+  padding:30px 60px;
 }
 
 .txt-contents {
@@ -252,9 +249,9 @@ footer {
 }
 
 .footer-left{
-  float:left;
+  float:left
 }
 
 .footer-right{
-  float:left;
+  float:left
 }
