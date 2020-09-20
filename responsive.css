@@ -1,8 +1,8 @@
 /* For tablet */
 @media all and (max-width:1000px) {
     .lesson {
-        width:20%;
-        margin-bottom:60px;
+        width:25%;
+        text-align:center;
     }
 
 
@@ -12,7 +12,7 @@
 @media all and (max-width:670px) {
     .lesson {
         width:25%;
-        margin-bottom:60px;
+        text-align:center;
     }
 
     .mv h1{
@@ -36,33 +36,33 @@
     }
 
     .btnv p{
-        font-size:30px;
+        font-size:40px;
         text-align:left;
     }
     
     .math {
-        font-size:40px;
+        font-size:60px;
     }
     
     .physics {
-        font-size:40px;
+        font-size:60px;
     }
     
     .chemistry {
-        font-size:40px;
+        font-size:60px;
     }
     
     .english {
-        font-size:40px;
+        font-size:60px;
     }
         
     .footer-logo {
      font-family: cursive;
-     font-size:50px;
+     font-size:60px;
     }
 
     .footer-list {
-     font-size:40px;
+     font-size:60px;
     }
 
 }
