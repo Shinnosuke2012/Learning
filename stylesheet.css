@@ -76,15 +76,6 @@ header {
   float:left;
 }
 
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  /* displayをnoneに指定してください */
-  display:none;
-}
-
 .mv {
   padding:150px 0 100px 0;
   background-image: url("background-image.jpg");
@@ -192,24 +183,28 @@ header {
   color:white;
   font-size:20px;
   padding:30px 30px;
+  width:25%;
 }
 
 .physics {
   color:white;
   font-size:20px;
-  padding:30px 50px;
+  padding:30px 30px;
+  width:25%;
 }
 
 .chemistry {
   color:white;
   font-size:20px;
   padding:30px 30px;
+  width:25%;
 }
 
 .english {
   color:white;
   font-size:20px;
-  padding:30px 50px;
+  padding:30px 30px;
+  width:25%;
 }
 
 .txt-contents {
