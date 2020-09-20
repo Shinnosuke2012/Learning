@@ -1,7 +1,7 @@
 /* For tablet */
 @media all and (max-width:1000px) {
     .lesson {
-        width:50%;
+        width:20%;
         margin-bottom:60px;
     }
 
@@ -11,7 +11,7 @@
 /* For smart phone*/
 @media all and (max-width:670px) {
     .lesson {
-        width:50%;
+        width:25%;
         margin-bottom:60px;
     }
 
