@@ -1,5 +1,5 @@
 /* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 640px) {
+    @media only screen and (min-width : 500px) {
     #btnv h1{
         text-align:left;
         margin:0 30px;
