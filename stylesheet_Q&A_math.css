@@ -148,3 +148,35 @@ footer {
   .footer-right{
     float:left
   }
+
+
+ @media only screen and (max-width : 1000px){
+
+  }
+
+  @media only screen and (max-width : 670px){
+    .mv {
+      padding:100px 30px;
+    }
+
+    .mv-ttl{
+      margin:20px 10px;
+    }
+
+    .mv-ttl h1{
+      font-size:25px;
+    }
+
+    .mv-ttl h2{
+      font-size:20px;
+    }
+
+    .mv-txt{
+      text-align:center;
+    }
+
+    .mv-txt p{
+      padding:10px 10px;
+    }
+  
+  }
