@@ -1,18 +1,18 @@
 /* Custom, iPhone Retina */ 
     @media only screen and (min-width : 320px) {
-        mv {
+        .mv {
         width:100%;
     }
     
-    btnv {
+    #btnv {
         width:100%;
     }
 
-    cv {
+    .cv {
         width:100%;
     }
 
-    lesson {
+    .lesson {
         width:100%;
     }
         
@@ -20,12 +20,40 @@
 
     /* Extra Small Devices, Phones */ 
     @media only screen and (min-width : 480px) {
+    .mv {
+        width:100%;
+    }
+    
+    #btnv {
+        width:100%;
+    }
 
+    .cv {
+        width:100%;
+    }
+
+    .lesson {
+        width:100%;
+    }
     }
 
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
+    .mv {
+        width:100%;
+    }
+    
+    #btnv {
+        width:100%;
+    }
 
+    .cv {
+        width:100%;
+    }
+
+    .lesson {
+        width:50%;
+    }
     }
 
     /* Medium Devices, Desktops */
