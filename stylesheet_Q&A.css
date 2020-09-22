@@ -190,8 +190,13 @@ footer {
 }
 
 @media only screen and (max-width : 670px){
+.btnv p{
+  width:50%;
+}
+
 .btnv-list p{
-  width:40%;
+  width:50%;
   text-align:center;
 }
+
 }
