@@ -8,6 +8,10 @@
 
     /* Extra Small Devices, Phones */ 
     @media only screen and (max-width : 670px) {
+    #btnv p{
+        margin:0 30px;
+        }
+     
     #btnv h1{
         text-align:left;
         margin:0 30px;
