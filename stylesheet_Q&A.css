@@ -192,11 +192,14 @@ footer {
 @media only screen and (max-width : 670px){
 .btnv p{
   width:50%;
+  text-align:center;
+  font-size:15px;
 }
 
 .btnv-list p{
   width:50%;
   text-align:center;
+  font-size:12px;
 }
 
 }
