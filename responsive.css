@@ -1,5 +1,5 @@
 /* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 320px) {
+    @media only screen and (min-width : 640px) {
         .mv {
         width:100%;
     }
@@ -16,7 +16,7 @@
     }
 
     /* Extra Small Devices, Phones */ 
-    @media only screen and (min-width : 480px) {
+    @media only screen and (min-width : 750px) {
     .mv {
         width:100%;
     }
@@ -42,12 +42,13 @@
     }
 
     .lesson {
-        width:25%;
+        width:50%;
+        margin-bottom:40px;
     }
     }
 
     /* Medium Devices, Desktops */
-    @media only screen and (min-width : 992px) {
+    @media only screen and (min-width : 3400px) {
         .mv {
         width:100%;
     }
