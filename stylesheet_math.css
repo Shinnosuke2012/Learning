@@ -184,3 +184,23 @@ footer {
 .footer-right{
   float:left
 }
+
+@media only screen and (max-width : 1000px) {
+
+}
+
+@media only screen and (max-width : 670px){
+  .contents-txt1{
+    width:25%;
+    text-align:center;
+    font-size:15px;
+  }
+
+  .lesson {
+    padding:20px 30px 10px 10px;
+  }
+
+  .lesson li{
+    margin:20px 10px;
+  }
+}
