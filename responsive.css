@@ -10,6 +10,7 @@
 
     .lesson {
         width:100%;
+        margin-bottom:40px;
     }
         
     }
@@ -26,6 +27,7 @@
 
     .lesson {
         width:100%;
+        margin-bottom:40px;
     }
     }
 
@@ -41,10 +43,21 @@
 
     .lesson {
         width:50%;
+        margin-bottom:40px;
     }
     }
 
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
+        .mv {
+        width:100%;
+    }
+    
+    #btnv {
+        width:100%;
+    }
 
+    .lesson {
+        width:25%;
+    }
     }
