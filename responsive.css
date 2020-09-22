@@ -1,13 +1,5 @@
 /* Custom, iPhone Retina */ 
     @media only screen and (min-width : 640px) {
-    .mv {
-        width:640px;
-    }
-    
-    #btnv {
-        width:640px;
-    }
-
     .lesson {
         width:100%;
         margin-bottom:40px;
@@ -17,14 +9,6 @@
 
     /* Extra Small Devices, Phones */ 
     @media only screen and (min-width : 750px) {
-    .mv {
-        width:750px;
-    }
-    
-    #btnv {
-        width:750px;
-    }
-
     .lesson {
         width:100%;
         margin-bottom:40px;
@@ -33,14 +17,6 @@
 
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
-    .mv {
-        width:768px;
-    }
-    
-    #btnv {
-        width:768px;
-    }
-
     .lesson {
         width:50%;
         margin-bottom:40px;
