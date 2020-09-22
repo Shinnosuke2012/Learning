@@ -182,7 +182,7 @@ header {
   margin:40px 0;
 }
 
-.btn :hover{
+.lesson :hover{
   opacity:0.5;
   font-weight:bold;
   cursor:pointer;
