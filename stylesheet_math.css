@@ -201,6 +201,9 @@ footer {
   }
 
   .lesson li{
-    margin:20px 10px;
+    margin:20px 5px;
+  }
+  .lesson a{
+    font-size:10px;
   }
 }
