@@ -1,5 +1,5 @@
  /* Small Devices, Tablets */
-    @media only screen and (min-width : 1000px) {
+    @media only screen and (max-width : 1000px) {
     .lesson {
         width:50%;
         margin-bottom:40px;
