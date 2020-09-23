@@ -8,6 +8,10 @@
 
     /* Extra Small Devices, Phones */ 
     @media only screen and (max-width : 670px) {
+     header {
+        height:800px;
+     }
+    
     .menu-icon {
         width:80px;
         height:80px;
