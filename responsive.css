@@ -38,6 +38,10 @@
         display:none;
      }
      
+     .mv {
+        width:100%;
+     }
+     
     #btnv p{
         margin:0 30px;
         }
