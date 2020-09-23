@@ -11,32 +11,6 @@
      header {
         height:800px;
      }
-    
-    .menu-icon {
-        width:80px;
-        height:80px;
-        display:block;
-      }
-      
-    .header-small {
-        background-color:rgba(34,49,52,0.9);
-        text-align:right;
-        height:300px;
-        width:400px;
-        margin-right:40px;
-        display:none;
-      }
-      
-    .header-small li{
-        padding-top:30px;
-        text-align:center;
-      }
-      
-    .header-small a{
-        font-size:15px;
-        color:white;
-        font-weight:normal;
-      }
      
     .header-right{
         display:none;
