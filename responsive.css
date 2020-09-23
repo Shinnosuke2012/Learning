@@ -33,6 +33,10 @@
         font-weight:normal;
       }
      
+    .header-right{
+        display:none;
+     }
+     
     #btnv p{
         margin:0 30px;
         }
