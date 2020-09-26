@@ -19,6 +19,9 @@
     nav {
       display:block;
     }
+    
+    .header-right{
+     display:none;
      
      .mv {
         width:100%;
