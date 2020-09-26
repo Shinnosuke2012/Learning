@@ -28,8 +28,10 @@ a {
 .nav_toggle {
     display: none;
     position: relative;
-    width: 5.0rem;
-    height: 2.0rem;
+    width: 1.75rem;
+    height: 1.5rem;
+    padding-left:300px;
+    padding-top:50px;
   }
   .nav_toggle i {
     width: 100%;
@@ -62,8 +64,6 @@ a {
   
   nav {
     position: fixed;
-    color:white;
-    font-size:15px;
     top: 3rem;
     left: 0;
     right: 0;
@@ -74,6 +74,11 @@ a {
     transition: opacity .5s, visibility .5s;
     background-color:rgba(34,49,52,0.9);
     display:none;
+  }
+
+  nav li {
+    color:white;
+    font-size:15px;
   }
   
   .nav.show {
