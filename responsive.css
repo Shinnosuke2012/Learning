@@ -12,6 +12,14 @@
         height:80px;
      }
      
+     .nav_toggle {
+      display:block;
+    }
+
+    nav {
+      display:block;
+    }
+     
      .mv {
         width:100%;
      }
