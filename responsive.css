@@ -11,14 +11,6 @@
      header {
         height:80px;
      }
-     
-     .nav_toggle {
-      display:block;
-    }
-
-    nav {
-      display:block;
-    }
     
     .header-right{
      display:none;
@@ -65,5 +57,13 @@
         .txt-contents p{
           font-size:10px;
 }
+     
+        .nav_toggle {
+      display:block;
+    }
+
+        nav {
+      display:block;
+    }
     }
 
