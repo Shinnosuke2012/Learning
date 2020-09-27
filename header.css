@@ -30,8 +30,7 @@ a {
     position: relative;
     width: 1.75rem;
     height: 1.5rem;
-    padding-left:300px;
-    padding-top:50px;
+    padding-left:250px;
   }
   .nav_toggle i {
     width: 100%;
@@ -76,7 +75,7 @@ a {
     display:none;
   }
 
-  nav li {
+  nav a {
     color:white;
     font-size:15px;
   }
