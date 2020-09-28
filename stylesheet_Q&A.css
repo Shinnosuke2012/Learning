@@ -43,6 +43,10 @@ header {
   font-family:cursive;
 }
 
+.header-right {
+  display:none;
+}
+
 .header-right li {
   padding-right:20px;
   padding-top:25px;
@@ -75,6 +79,7 @@ header {
   padding:100px 0 100px 0;
   background-image: url("background-image-question.jpg");
   background-size:cover;
+  height:1000px;
 }
 
 .mv-ttl {
@@ -194,20 +199,18 @@ footer {
   font-size:20px;
 }
 
-.btnv p{
+  .btnv p{
   width:50%;
   text-align:left;
-  font-size:15px;
+}
+
+.btnv-list p{
+  width:80%;
+  text-align:left;
 }
 
 .btn-list li{
   text-align:left;
-}  
-  
-.btnv-list p{
-  width:60%;
-  text-align:left;
-  font-size:12px;
 }
 
 }
