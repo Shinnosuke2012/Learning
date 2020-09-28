@@ -11,9 +11,6 @@
      header {
         height:80px;
      }
-    
-    .header-right{
-     display:none;
      
      .mv {
         width:100%;
@@ -58,12 +55,5 @@
           font-size:10px;
 }
      
-        .nav_toggle {
-      display:block;
-    }
-
-        nav {
-      display:block;
-    }
     }
 
