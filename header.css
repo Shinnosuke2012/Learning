@@ -26,11 +26,13 @@ a {
 }
 
 .nav_toggle {
-    display: none;
+    display: block;
     position: relative;
-    width: 1.75rem;
-    height: 1.5rem;
-    padding-left:250px;
+    width: 2.5rem;
+    height: 2.0rem;
+    float:right;
+    margin-top:20px;
+    margin-right:20px;
   }
   .nav_toggle i {
     width: 100%;
@@ -72,12 +74,12 @@ a {
     visibility: hidden;
     transition: opacity .5s, visibility .5s;
     background-color:rgba(34,49,52,0.9);
-    display:none;
+    display:block;
   }
 
-  nav a {
+  .nav_menu_li a {
     color:white;
-    font-size:15px;
+    font-size:20px;
   }
   
   .nav.show {
