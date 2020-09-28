@@ -1,59 +1,57 @@
  /* Small Devices, Tablets */
-    @media only screen and (max-width : 1000px) {
+@media only screen and (max-width : 1000px) {
     .lesson {
         width:50%;
         margin-bottom:40px;
-    }
+        }
     }  
 
-    /* Extra Small Devices, Phones */ 
-    @media only screen and (max-width : 670px) {
-     header {
-        height:80px;
-     }
-     
-     .mv {
-        width:100%;
-     }
-     
-    #btnv p{
-        margin:0 30px;
-        }
-     
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 670px) {
+    .header {
+      height:80px;
+    }
+
+    .mv{
+      width:100%;
+    }
+    
     #btnv h1{
         text-align:left;
         margin:0 30px;
         }
+    
+    #btnv p{
+        margin:0 30px;
+    }
         
     .lesson {
         float:none;
         width:100%;
         margin-bottom:50px;
-    }
+        }
         
         .math {
         font-size:15px;
         padding:30px 60px;
-}
+        }
 
         .physics {
-         font-size:15px;
-         padding:30px 60px;
-}
+        font-size:15px;
+        padding:30px 60px;
+        }
 
         .chemistry {
           font-size:15px;
           padding:30px 60px;
-}
+        }
 
         .english {
          font-size:15px;
          padding:30px 60px;
-}
+        }
 
         .txt-contents p{
           font-size:10px;
-}
-     
+        }      
     }
-
