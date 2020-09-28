@@ -26,13 +26,12 @@ a {
 }
 
 .nav_toggle {
-    display: block;
     position: relative;
     width: 2.5rem;
     height: 2.0rem;
+    display:block;
     float:right;
     margin-top:20px;
-    margin-right:20px;
   }
   .nav_toggle i {
     width: 100%;
@@ -78,8 +77,8 @@ a {
   }
 
   .nav_menu_li a {
-    color:white;
     font-size:20px;
+    color:white;
   }
   
   .nav.show {
